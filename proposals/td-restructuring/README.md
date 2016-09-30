@@ -21,6 +21,7 @@ This document shall initiate the discussion to make some rearrangements of the T
 * .. different protocols / encodings used for different resources
 * Currently, endpoint information are distributed over the TD, e.g., urls, hrefs, encoding
 * I have a subscribable property, shall I characterize it as an event? (e.g., temperature value)
+* Hierarchical vs flat organization of TD entries.
 
 ##  Restructuring Proposal
 1.	Going back to the TD structure similar which we used for the TD version 1 (declare property, action, and event within @type)
